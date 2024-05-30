@@ -3,3 +3,4 @@ In here, you can find my powerBI dashboard file.
 Also, there is a video explanation regarding the same as instructed. The link for the same:
 
 VIDEO EXPLANATION LINK: https://drive.google.com/file/d/1xekJecsVtHOXKLOQqRzvhom-mv3cxlMa/view?usp=drive_link
+POWERBI PROJECT LINK: https://drive.google.com/file/d/18giXgUhTX2QAhX2FT7aCirH-gaEFdnbY/view?usp=sharing
